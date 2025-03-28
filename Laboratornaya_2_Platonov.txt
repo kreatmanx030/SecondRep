@@ -1,0 +1,25 @@
+Vipgi@LAPTOP-S804K942 MINGW64 ~
+$ cd /d/GitRepo/tmp
+
+Vipgi@LAPTOP-S804K942 MINGW64 /d/GitRepo/tmp (master)
+$ git clone https://github.com/kreatmanx030/SecondRep.git zadanie
+Cloning into 'zadanie'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+
+Vipgi@LAPTOP-S804K942 MINGW64 /d/GitRepo/tmp (master)
+$ cd /d/GitRepo/tmp/zadanie/
+
+Vipgi@LAPTOP-S804K942 MINGW64 /d/GitRepo/tmp/zadanie (main)
+$ git remote -v
+origin  https://github.com/kreatmanx030/SecondRep.git (fetch)
+origin  https://github.com/kreatmanx030/SecondRep.git (push)
+
+Vipgi@LAPTOP-S804K942 MINGW64 /d/GitRepo/tmp/zadanie (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
